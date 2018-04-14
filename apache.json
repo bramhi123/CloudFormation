@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion": "2018-04-14",
+  "AWSTemplateFormatVersion": "14-04-2018",
   "Description": "AWS CloudFormation Template VPC_Single_Instance_In_Subnet_with_Apache",
   "Parameters": {
     "InstanceType": {
